@@ -1,4 +1,4 @@
-# elmakart projesi
+# Elma Kart Projesi
 
 🍎 ElmaKart - Şehir Kartı Yönetim Sistemi
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş bir şehir kartı yönetim simülasyonudur. Nesne Yönelimli Programlama (NYP) prensiplerini temel alarak; kullanıcı kaydı, giriş doğrulama ve kart bilgileri kontrolü gibi işlemleri gerçekleştirir.
